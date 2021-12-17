@@ -1,4 +1,4 @@
-import { partOne, partTwo } from './2021/day12';
+import { partOne, partTwo } from './2021/day14';
 
 console.log('--------------------- Part One ---------------------');
 partOne();
